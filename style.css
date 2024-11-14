@@ -1,0 +1,31 @@
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px lightgray;
+}
+
+.card-img-top {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height: 200px;
+}
+
+.card-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.card-text {
+    color: darkgray;
+}
+
+.container {
+    max-width: 1000px;
+}
